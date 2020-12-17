@@ -1,0 +1,2 @@
+class AutoCheckpointSaverException(Exception):
+    pass
